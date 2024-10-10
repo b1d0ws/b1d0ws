@@ -1,4 +1,4 @@
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQwMDA5d3ZsejRsaXppMjBodWlpOWhrdmk4NjhqOG12YjVmc2NxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
+<img align="right" width="400px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQwMDA5d3ZsejRsaXppMjBodWlpOWhrdmk4NjhqOG12YjVmc2NxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 
 <h3>
     hi there!
@@ -10,8 +10,6 @@
 - 🧑🏻‍🏫 I like to share educational content through my blog and my youtube channel.
 
 - 📚 These days I'm learning about Application Security.
-
-<br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b1d0ws/)
