@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**b1d0ws/b1d0ws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :telescope: I currently work as a Junior Pentester.
 
-Here are some ideas to get you started:
+- :teacher: I like to share educational content through my blog and my youtube channel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :books: These days I'm learning about Application Security.
+
+---
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/b1d0ws/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://b1d0ws.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@b1d0ws">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
