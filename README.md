@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🔭 I currently work as a Junior Pentester.
+- 🔭 I currently work as a Pentester.
 
 - 🧑🏻‍🏫 I like to share educational content through my blog and my youtube channel.
 
