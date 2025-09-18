@@ -7,11 +7,11 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🔭 I currently work as a Pentester.
+- 🔭 I currently work as a Security Engineer at Nubank.
 
 - 🧑🏻‍🏫 I like to share educational content through my blog and my youtube channel.
 
-- 📚 These days I'm learning about Application Security.
+- 📚 These days I'm learning about [NOT DEFINED].
 
 #
 
