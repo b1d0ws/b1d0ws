@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 🔭 I currently work as a Security Engineer at Nubank.
+- 🔭 I currently work as a Pentester at Thoropass.
 
 - 🧑🏻‍🏫 I like to share educational content through my blog and my youtube channel.
 
